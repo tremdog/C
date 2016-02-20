@@ -3,7 +3,6 @@ import Champion from './model/Champion';
 const UNRELEASED_CHAMPIONS = {
     'redskull': false,
     'maestro': true,
-    'shehulk': false,
     'drstrangemarvelnow': true,
 };
 
