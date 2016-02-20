@@ -1,9 +1,9 @@
 import Champion from './model/Champion';
 
 const UNRELEASED_CHAMPIONS = {
-    'redskull': true,
+    'redskull': false,
     'maestro': true,
-    'shehulk': true,
+    'shehulk': false,
     'drstrangemarvelnow': true,
 };
 
